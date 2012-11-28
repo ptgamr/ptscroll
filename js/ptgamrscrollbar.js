@@ -18,7 +18,6 @@
 ptgamr.ptscroll = (function (w, $) {
 	
 	var opts = {
-			player : "#playerContainer",
 			fixWidth : false, //require to set the width in Css
 			autoHide : false,
 			trackMargin : 10, //margin of the ray to the bottom
