@@ -17,4 +17,4 @@ Didn't believe? Try to select the text in that box, and drag horizontally!
 
 DEMO
 ==
-Check out the demo here: http://anhtr.github.io/ptscroll/
+Check out the demo here: http://ptgamr.github.io/ptscroll/
